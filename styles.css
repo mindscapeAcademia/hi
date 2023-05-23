@@ -1,0 +1,16 @@
+body {
+  border-width: 2.5px;
+}
+
+.btn {
+  border-radius: 9px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.footer-end {
+  margin-top: auto;
+}
